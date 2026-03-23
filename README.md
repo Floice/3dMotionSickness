@@ -2,6 +2,10 @@
 
 Windows desktop overlay tool for placing black rectangle or circle patches on top of the screen.
 
+## Intro
+
+Desktop overlay app for reducing visual discomfort.
+
 ## Run
 
 ```powershell

@@ -1,0 +1,28 @@
+{
+  "shapes": [
+    {
+      "shape_id": 1,
+      "kind": "rectangle",
+      "x": 1736,
+      "y": 270,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "shape_id": 2,
+      "kind": "rectangle",
+      "x": 71,
+      "y": 359,
+      "width": 220,
+      "height": 120
+    },
+    {
+      "shape_id": 3,
+      "kind": "circle",
+      "x": 101,
+      "y": 96,
+      "width": 220,
+      "height": 120
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+"""Desktop patch overlay application."""

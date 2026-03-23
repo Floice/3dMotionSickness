@@ -1,22 +1,22 @@
 # Patch Overlay
 
-Windows desktop overlay tool for placing black rectangle or circle patches on top of the screen.
+一个 Windows 桌面遮罩工具，可以在屏幕上放置黑色矩形或圆形遮罩块。
 
-## Intro
+## 简介
 
-Desktop overlay app for reducing visual discomfort.
+这是一个用于缓解视觉不适的桌面遮罩应用。
 
-## Run
+## 运行
 
 ```powershell
 python main.py
 ```
 
-## Current features
+## 当前功能
 
-- First run opens editor mode
-- Add any number of rectangle or circle patches
-- Drag and resize patches
-- Save patches to `patches_config.json`
-- Overlay stays on top and uses click-through
-- System tray menu for edit, toggle, and exit
+- 首次运行会进入编辑模式
+- 可添加任意数量的矩形或圆形遮罩
+- 支持拖动和缩放遮罩
+- 遮罩配置会保存到 `patches_config.json`
+- 遮罩始终置顶，并支持点击穿透
+- 托盘菜单支持编辑、切换和退出
